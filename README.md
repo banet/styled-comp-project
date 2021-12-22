@@ -1,11 +1,5 @@
-# Testing styled components in React building Hubble Landingpage from Frontend Mentor
+# Huddle Landing Page (React & Styled Components)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple Landing page tp test my new skills with styled components
 
-## Available Scripts
-
-In the project directory, you can run:
-
-
-### `npm test`
 
