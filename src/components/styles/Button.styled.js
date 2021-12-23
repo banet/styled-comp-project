@@ -2,15 +2,15 @@ import styled from 'styled-components'
 
 
 export const Button = styled.button`
-    border-radius:4px;
+    border-radius:50px;
     border: none;
     box-shadow: 0 0 10px rgba(0,0,0,.15);
     cursor: pointer;
     font-size: 16px;
     font-weight: bold;
     padding: 15px 60px;
-    background-color: ${({bg}) => bg || '#fff'}
-    background-color: ${({color}) => color || '#333'}
+     background-color: ${({ bg }) => bg || '#fff'};
+     color: ${({ color }) => color || '#333'};
 
     &:hover {
         opacity:.9;
